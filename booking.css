@@ -1,0 +1,130 @@
+
+body{
+    margin: 0;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: black;
+    color: cyan;
+}
+.background-image{
+  opacity: 0.5;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+.booking{
+    background-color: rgba(0, 0, 0,0.8);
+    width: 30%;
+    margin-left: 42pc;
+    margin-top: 8pc;
+    padding-top: 48pc;
+    border-radius: 6%;
+    text-align: center;
+}
+.heading{
+    color: white;
+}
+.form-class{
+    margin-top: -754px;
+}
+#name{
+    margin-left: -20px;
+    font-weight: 700;
+}
+.name-box {
+    width: 275px;
+    margin-left: 24px;
+    top: 0;
+    height: 32px;
+    left: 0;
+    border: 2px solid;
+    border-color: cyan;
+    background-color: black;
+    border-radius: 10px;
+    color: cyan;
+}
+#number{
+    margin-left: -85px;
+    font-weight: 700;
+}
+.number{
+    width: 275px;
+    margin-left: 24px;
+    top: 0;
+    height: 32px;
+    left: 0;
+    border: 2px solid;
+    border-color: cyan;
+    background-color: black;
+    border-radius: 10px;
+    color: cyan;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+}
+#email{
+    margin-left: -20px;
+    font-weight: 700;
+}
+.email{
+    width: 275px;
+    margin-left: 24px;
+    top: 0;
+    height: 32px;
+    left: 0;
+    border: 2px solid;
+    border-color: cyan;
+    background-color: black;
+    border-radius: 10px;
+    color: cyan;
+}
+#age {
+    margin-left: -226px;
+    font-weight: 700;
+}
+.age {
+    width: 56px;
+    margin-left: 24px;
+    top: 0;
+    height: 32px;
+    left: 0;
+    border: 2px solid;
+    border-color: cyan;
+    background-color: black;
+    border-radius: 10px;
+    color: cyan;
+}
+.gender {
+    margin-left: -23px;
+    padding-left: -15px;
+    font-weight: 700;
+}
+.male-button{
+    margin-left: 28px;
+}
+.book-btn {
+    margin-top: 64px;
+    height: 42px;
+    width: 100px;
+    margin-left: 226px;
+    text-align: center;
+    padding-top: -2px;
+    border-radius: 8px;
+}
+.book-submit{
+    background-color: aliceblue;
+    font-size: 17px;
+    border-radius: 8px;
+    height: 30px;
+    padding-top: 10px;
+    background-color: white;
+
+}
+.submit-link{
+    padding-top: 17px;
+    text-decoration: none;
+    color: black;
+}

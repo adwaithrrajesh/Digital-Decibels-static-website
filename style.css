@@ -1,0 +1,156 @@
+body{
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: #06c5ffe3;
+    background-color: black;
+}
+#nav-id {
+    margin-left: 92pc;
+    word-spacing: 47px;
+    list-style-type: none;
+    margin-top: -41px;
+}
+.links{
+    text-decoration: none;
+    color: #07aee1e3;
+}
+.container{
+    margin-top: -426px;
+    margin-left: 66px;
+    z-index: 1;
+    position: fixed;
+}
+#background-video{
+  opacity: 0.5;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -1;
+}
+
+.links:hover{
+    color: white;
+}
+.details{
+    text-align: center;
+    margin-top: 28pc;
+}
+.text{
+    font-size: largest;
+    color: beige;
+}
+a.btn{
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    background-color: #3f51b5;
+    opacity: 1;
+    margin-top: 10px;
+    color: white;
+}
+.contact-us {
+    background-color: #1962d8f0;
+    color: #fff;
+    padding: 17px 44px;
+    text-decoration: none;
+    margin-left: 54pc;
+    border-radius: 26px;
+}
+.contact{
+    margin-top: 54px;
+}
+.contact-us:hover{
+    background-color: #0a43a0d9;
+}
+#section-about {
+    padding-top: 275px;
+    background-color: black;
+    text-align: center;
+    margin-top: 430px;
+    opacity: 0.6;
+}
+.heading-about{
+    padding-top: 22px;
+    margin-top: -239px;
+    color: #ffffff;
+}
+.discription-about{
+    font-size: 21px;
+    padding-top: 1px;
+    color: #ffffff;
+}
+#section-contact {
+    height: 261px;
+    background-color: black;
+    text-align: center;
+    margin-top: 900px;
+    opacity: 0.8;
+    color: white;
+}
+.heading-contact{
+    padding-top: 40px;
+}
+.contact-discription {
+    letter-spacing: 0.1em;
+    padding-top: 17px;
+    font-size: 18px;
+}
+.mobile-number{
+    padding-top: 14px;
+}
+.number-redirect{
+    text-decoration: none;
+    color: gray;
+}
+.number-redirect:hover{
+    color: cyan;
+}
+.contact-btn {
+    background-color: white;
+    padding-top: 40px;
+    width: 176px;
+    margin-left: 857px;
+    margin-top: -11px;
+    border-radius: 60px;
+}
+.contact-link {
+    padding-left: 177px;
+    padding-top: 29px;
+    text-decoration: none;
+    border-radius: 60px;
+}
+.text-contact{
+    margin-top: -55px;
+    color: rgb(0, 0, 0);
+}
+html{
+    scroll-behavior: smooth;
+}
+.arrow-up{
+    height: 29px;
+    padding-top: -2pc;
+    padding-left: 112pc;
+}
+.linked-logos{
+    height: 70px;
+}
+.linked-in {
+    height: -2px;
+    width: 76px;
+    margin-left: 866px;
+    margin-top: -91px;
+    padding-top: 38px;
+}
+.linkedin-png{
+    height: 61px
+}
+.git{
+    width: 83px;
+    margin-left: 943px;
+}
+.git-png{
+    height: 44px;
+    padding-top: 11px;
+}

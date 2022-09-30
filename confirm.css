@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    color: white;
+}
+.confirm{
+    padding-left: 42pc;
+    margin-top: 26pc;
+}
+.done{
+    background-color: white;
+    width: 134px;
+    border-radius: 15px;
+    margin-top: 43px;
+    text-align: center;
+    margin-left: 862px;
+}
